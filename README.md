@@ -1,1 +1,1 @@
-# docker-laravel-handson
+laravel-training
